@@ -1,6 +1,5 @@
 CONTOH MENGGUNAKKAN GITHUB
 -Daftar masuk di github.com
 -tunggu pengesahan di email
--setelah selesai pengesahan baru boleh log in
 -Log in masuk dengan menggunakan email dan password
 -Boleh digunakkan macam biasa
