@@ -1,0 +1,5 @@
+redo-folder project kita
+commit-rekaman/snapshot dari repo kita
+-hash-penanda unik pada sebuah commit
+-checkout-berpindah ke sebuah commit
+branch-cabang bebas dari sebuah commit
